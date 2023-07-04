@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="mmc africa law case studies">
+    <meta name="keywords" content="mmc africa law">
+	
+	<title>MMC Africa Law Case Studies</title>
+    
+    <!--pageMeta-->
+
+    <!-- Loading Bootstrap -->
+    <link href="css1/bootstrap1.css" rel="stylesheet">
+	
+    <!-- Loading Elements Styles -->   
+    <link href="css1/style1.css" rel="stylesheet">
+	
+	<!-- Loading Magnific-Popup Styles --> 
+    <link href="css1/magnific-popup1.css" rel="stylesheet"> 
+	   
+    <!-- Loading Font Styles -->
+    <link href="css1/iconfont-style1.css" rel="stylesheet">
+
+    <!-- WOW Animate-->
+    <link href="scripts1/animations/animate1.css" rel="stylesheet">
+    
+    <!-- Datepicker Styles -->   
+    <link href="css1/bootstrap-datepicker3.min1.css" rel="stylesheet">
+    
+    
+   <!-- EXTRA CSS-->
+    <link rel="stylesheet" href="css/style.css" />
+    
+    <link rel="stylesheet" href="css/magnific-popup.css" />
+
+    <link rel="stylesheet" href="css/font-icons.css" />
+
+    <link rel="stylesheet" href="css/colors/blue.css" />
+    
+   <!-- endCSS-->
+
+	<!-- Favicons -->
+	<link rel="icon" href="images1/favicons/favicon.png">
+	<link rel="apple-touch-icon" href="images1/favicons/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="images1/favicons/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="images1/favicons/apple-touch-icon-114x114.png">
+
+    
+    
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
+    <!--[if lt IE 9]>
+      <script src="scripts/html5shiv.js"></script>
+      <script src="scripts/respond.min.js"></script>
+    <![endif]-->
+    
+    <!--headerIncludes-->
+    
+</head>
+<body data-spy="scroll" data-target=".navMenuCollapse">
+
+    <!--PRELOADER-->
+			    <div id="preloader">
+			        <div class="loading-data"></div>
+			    </div>
+			    
+			    
+			    
+			   <!-- Fullscreen search -->
+      <div class="search-wrap">
+        <div class="search-inner">
+          <div class="search-cell">
+            <form method="get">
+              <div class="search-field-holder">
+                <input type="search" class="form-control main-search-input" placeholder="Search for">
+                <i class="ui-close search-close" id="search-close"></i>
+              </div>            
+            </form>
+          </div>
+        </div>        
+      </div> <!-- end fullscreen search -->
+    
+      <nav class="navbar navbar-static-top">
+        <!--<div class="navigation" id="sticky-nav">-->
+        <div class="navigation" id="">
+          <div class="container relative">
+
+            <div class="row">
+
+              <div class="navbar-header">
+                <!-- Logo -->
+                <div class="logo-container">
+                  <div class="logo-wrap">
+                    <a href="index.html">
+                      <img class="logo-dark" src="img/CallaPRi1.png" alt="logo">
+                      <img class="logo-dark logox" alt="logo">
+                    </a>
+                  </div>
+                </div>
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+              </div> <!-- end navbar-header -->
+
+              <div class="nav-wrap right">
+                <div class="collapse navbar-collapse text-center" id="navbar-collapse">
+                  
+                  <ul class="nav navbar-nav navbar-right">
+
+                    <li class="active">
+                      <a href="#">HOME</a>
+                    </li>
+
+                    <li class="dropdown">
+                      <a href="about-us.html">ABOUT US</a>
+                      <i class="fa fa-angle-down dropdown-trigger"></i>
+                      <ul class="dropdown-menu">
+                        <li><a href="about-us.html">Who We Are</a></li>
+                        <li><a href="People.html">People</a></li>
+                        <li><a href="Careers.html">Careers</a></li>
+                        <li><a href="Advisory Council.html">Advisory Council</a></li>
+                      </ul>
+                    </li>
+                    
+                    <li class="dropdown">
+                      <a href="about-us.html">OUR WORK</a>
+                      <i class="fa fa-angle-down dropdown-trigger"></i>
+                      <ul class="dropdown-menu">
+                        <li><a href="#">Case Studies</a></li>
+                        <li><a href="sectors.html">Sectors</a></li>
+                        <li><a href="services.html">Services</a></li>
+                        <li><a href="barometer.html">CALLA PR Barometer</a></li>
+                        <li><a href="cancerwatch.html">Cancer Watch</a></li>
+                      </ul>
+                    </li>
+
+                    <li class="dropdown">
+                      <a href="blog.html">KENYAN INSIGHTS</a>
+                      <!--<i class="fa fa-angle-down dropdown-trigger"></i>-->
+                    </li>
+                    
+                    <!-- Nav right -->
+                    <li class="nav-right hidden-sm hidden-xs">
+                      <ul>
+                        <li class="nav-search-wrap hidden-sm hidden-xs">
+                          <a href="#" class="nav-search search-trigger">
+                            <i class="ui-search"></i>
+                          </a>
+                        </li>
+                        <li class="nav-icon-wrap hidden-sm hidden-xs">
+                          <div id="nav-icon">
+                            <div class="nav-icon-inner">
+                              <a href="#" id="nav-icon-trigger" class="nav-icon-trigger">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                              </a>
+                            </div>
+                          </div>
+                        </li>
+                      </ul>
+                    </li>
+
+                    <li id="mobile-search" class="hidden-lg hidden-md">
+                      <form method="get" class="mobile-search">
+                        <input type="search" class="form-control" placeholder="Search...">
+                        <button type="submit" class="search-button">
+                          <i class="ui-search"></i>
+                        </button>
+                      </form>
+                    </li>
+
+                  </ul> <!-- end menu -->
+                </div> <!-- end collapse -->
+              </div> <!-- end col -->         
+          
+            </div> <!-- end row -->
+          </div> <!-- end container -->
+        </div> <!-- end navigation -->
+      </nav> <!-- end navbar -->
+ 
+			    
+			    
+			    
+
+    <div id="wrap">
+        
+    <!-- CONTENT FULL LEFT BLOCK --><!-- INTRO CENTER -->
+	<header id="intro-center" class="intro-block bg-color1 dark-bg fixed-bg double-padding text-center" style="background-image: url(images1/bg20.jpg);">
+		<div class="container">
+			<div class="slogan" data-selector="Footer" style="">
+				<h1 data-selector="Footer">MMC AFRICA LAW</h1>
+				<h2 class="giant-title" data-selector="Footer"><strong>CASE STUDIES</strong></h2>
+			</div>
+			<a class="goto" href="#"><i class="icon big-icon icon-arrow-down"></i></a>
+		</div>
+	</header><!-- CONTENT FULL LEFT BLOCK -->
+		<section id="content-full-left" class="fixed-bg wow fadeIn" style="background-image: url(&quot;http://localhost/builder/extrapics/2.jpg&quot;); background-color: rgba(0, 0, 0, 0); padding-top: 150px; padding-bottom: 150px; border-bottom-width: 1px; border-bottom-color: rgb(232, 232, 232); background-repeat: no-repeat; background-size: cover; background-attachment: scroll;" data-selector="section" src="images1/footer-logo.png" data-wow-duration="1s" data-wow-delay="1s">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-5 col-md-5">
+						
+						<div class="editContent" data-selector="Footer" style=""><h2 class="title" data-selector="Footer" style="color: rgb(34, 34, 34); font-size: 44px; background-color: rgba(0, 0, 0, 0); margin-bottom: 60px; margin-top: 0px;" src="images1/footer-logo.png"><b>MMC Africa Law</b></h2>
+<p data-selector="p" style="color: rgb(111, 168, 220); font-size: 17px; background-color: rgba(0, 0, 0, 0);" src="images1/screen-3.png">
+	At the heart of society, but no one knows.
+</p>
+<p data-selector="p" style="color: rgb(61, 133, 198); font-size: 17px; background-color: rgba(0, 0, 0, 0);" src="images1/screen-3.png">
+	<br>
+</p>
+<p data-selector="p" style="color: rgb(85, 85, 85); font-size: 20px; background-color: rgba(0, 0, 0, 0);" src="images1/uploads/XERX.png">
+	MMC Africa Law is Kenya's top and oldest indigenous law firm, virtually putting together mega transactions that cut across Kenya's key sectors. The firm was also behind numerous public interest litigation legal matters designed to protect the welfare of the citizenry. MMC needed a swift solution to connect it to its crucial audiences to meet organizational objectives.In our work we try to use only the most modern, convenient and interesting solutions. We want the template you downloaded look unique and new for such a long time as it is possible.
+</p>
+<p data-selector="p" style="color: rgb(85, 85, 85); font-size: 17px; background-color: rgba(0, 0, 0, 0);" src="images1/screen-3.png">
+	<br>
+</p>
+<p data-selector="p" style="color: rgb(85, 85, 85); font-size: 17px; background-color: rgba(0, 0, 0, 0);" src="images1/screen-3.png">
+	<br>
+</p></div>
+					</div>
+				</div>	
+			</div>
+		</section><!-- CONTENT RIGHT APP BLOCK -->
+		<section id="content-right-app" class="bg-color3 wow fadeIn" data-selector="section" style="background-image: none; background-color: rgb(248, 249, 251); padding-top: 150px; padding-bottom: 150px; border-bottom-width: 1px; border-bottom-color: rgb(232, 232, 232); background-repeat: repeat; background-size: auto; background-attachment: scroll;" data-wow-duration="1s" data-wow-delay="1s" src="images1/footer-logo.png">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-3 col-md-4">
+						<img class="screen" src="images1/uploads/XERX.png" alt="screen" data-selector="img" style="width: 263px; height: 536px; border-radius: 0px; border-color: rgb(85, 85, 85); border-style: none; border-width: 1px;"> 
+					</div>
+					<div class="col-md-7 col-lg-offset-2 col-md-offset-1 editContent" data-selector="Footer" style=""><h2 data-selector="Footer">Does a law firm need PR?</h2>
+<h4 class="sub-title" data-selector="Footer" style="color: rgb(102, 102, 102); font-size: 20px; background-color: rgba(0, 0, 0, 0); margin-bottom: 60px; margin-top: 0px;" src="images1/uploads/XERX.png">Law firms are associated only with the courts in Kenya. In fact at the beginning of the campaign, many people including peers in the field of PR wondered why a law firm would require the services of a PR agency when it really doesn't have much to say. Or so they thought. However, legal matters are just one of multiple disciplines that constitute the enormous tasks undertaken by law firms.</h4>
+<h4 class="sub-title" data-selector="Footer"><br>
+</h4></div>
+				</div>
+			</div>
+		</section><!-- TEXT 3COL BLOCK -->
+		<section id="text-3col" data-selector="section" style="background-image: none; background-color: rgba(0, 0, 0, 0); padding-top: 150px; padding-bottom: 150px; border-bottom-width: 1px; border-bottom-color: rgb(232, 232, 232); background-repeat: repeat; background-size: auto; background-attachment: scroll;" data-wow-duration="1s" data-wow-delay="1s" class="wow fadeInRight" src="images1/footer-logo.png">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 editContent" data-selector="Footer" style=""><h3 class="title" data-selector="Footer">The Client's Client</h3>
+<p data-selector="p">
+	Owing to the complexities of the legal field, many clients often complain of consistent misrepresentation. We also were faced with the challenge that lawyers are in themselves representatives of their own clients, who actually own the subject of communication and therefore have their own objectives and protocol. We therefore had to spend more time mapping out every possible area of communication both within the law firm as well as with their stakeholders, identify all pain-points and coming up with a solution to each.
+</p></div>
+					<div class="col-md-4 editContent" data-selector="Footer" style=""><h3 class="title" data-selector="Footer">Crafting an effective message</h3>
+<p data-selector="p">
+	As you have seen, legal communications is at best delicate. We have to strike a fine balance between our client and his clients, to avoid any mishaps of reputation that can be disastrous. CALLA PR’s communication strategy was to position MMC Africa Law as Africa’s top commercial and litigation law firm, spanning decades worth of experience and networks across all spheres of society that would benefit those who enlist their services.
+</p>
+<p data-selector="p">
+	We established a close-knit network of business and court reporters that supported the brand’s main messages. A strong business insight and data team was instituted to monitor industry trends, and support MMC’s thought leadership opportunities.h, no! This is not your case. You obtain qualitative, fascinating and juicy final product that is modern and actual. Qualitative and flexible code lays in base of this great product. So, what is the secret of successful template design? First of all, it is its friendliness – both for the template's owner and for his or her future targeted audience.
+</p></div>
+					<div class="col-md-4 editContent" data-selector="Footer" style=""><h3 class="title" data-selector="Footer">Delivering Results</h3>
+<p data-selector="p">
+	The MMC campaign was probably the first successful law firm PR, achieving enormous media coverage that raised the profile of MMC Africa law locally and internationally. For the first time in Kenyan media, it was clearly understood the role played behind closed doors by law firms in the world of business. The campaign became key in opening new opportunities for MMC Africa Law.
+</p></div>
+				</div>
+			</div>
+		</section> <!-- Footer Type-4 -->
+      <footer class="footer footer-type-4 bg-dark">
+        <div class="container">
+          <div class="footer-widgets pb-mdm-20">
+
+            <div class="row">
+              <div class="col-md-8 col-sm-6 col-xs-12">
+                  <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="widget footer-about-us">
+                      <h5 class="widget-title">About Us</h5>
+                      <p class="mb-0">Who We Are</p>
+                      <p class="mb-0">Careers</p>
+                      <p class="mb-0">Advisory Council</p>
+                    </div>
+                  </div> <!-- end about us -->
+
+                  <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="widget footer-about-us">
+                      <h5 class="widget-title">Our Work</h5>
+                      <p class="mb-0">Case Studies</p>
+                      <p class="mb-0">Sectors</p>
+                      <p class="mb-0">Services</p>
+                    </div>
+                  </div> <!-- end our work -->
+
+                  <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="widget footer-get-in-touch">
+                      <h5 class="widget-title">Contact Us</h5>
+                      <address class="footer-address mb-0">Calla Public Relations<br>Nairobi<br>info@callapr.co.ke<br>+254-703-824-109</address>  
+                    </div>
+                  </div> <!-- end address -->
+
+                  <div class="col-md-3 col-sm-6 col-xs-12">
+                    <div class="widget footer-about-us">
+                      <h5 class="widget-title">Kenyan Insights</h5>
+                      <p class="mb-0">Case Studies</p>
+                      <p class="mb-0">Gallery</p>
+                      <p class="mb-0">Newsroom</p>
+                    </div>
+                  </div> <!-- end our work -->
+              </div>
+
+              <div class="col-md-4 col-sm-6 col-xs-12">
+                <div class="social-icons nobase dark mt-40" style="text-align: right; margin-top: 120px;">
+                  <a href="#"><i class="fa fa-twitter"></i></a>
+                  <a href="#"><i class="fa fa-facebook"></i></a>                  
+                  <a href="#"><i class="fa fa-google-plus"></i></a>
+                  <a href="#"><i class="fa fa-linkedin"></i></a>
+                  <a href="#"><i class="fa fa-vimeo"></i></a>
+                </div>
+              </div> 
+            </div>
+
+            <div class="row">
+              <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: right; margin-top: 10px;">
+                <span>
+                  &copy; 2018 CallaPR - Powered by <a href="http://trisoft.co.ke">Trisoft Solutions</a>
+                </span>
+              </div>
+            </div>
+          </div>    
+        </div> <!-- end container -->
+
+        <!-- <div class="bottom-footer">
+          <div class="container">
+            <div class="row">
+
+              <div class="col-sm-6 copyright sm-text-center">
+                <span>
+                  &copy; 2018 CallaPR - Powered by <a href="http://trisoft.co.ke">Trisoft Solutions</a>
+                </span>
+              </div>
+
+              <div class="col-sm-6">
+                <ul class="bottom-footer-links text-right sm-text-center">
+                  <li><a href="#">Home</a></li>
+                  <li><a href="#">About Us</a></li>
+                  <li><a href="#">Blog</a></li>
+                  <li><a href="#">Contact</a></li>
+                </ul>
+              </div>
+
+            </div>
+          </div>
+        </div> end bottom footer -->
+      </footer> <!-- end footer  -->
+
+
+      <div id="back-to-top">
+        <a href="#top"><i class="fa fa-angle-up"></i></a>
+      </div>
+
+    </div> <!-- end content wrapper -->
+ 
+	 
+
+    <!-- JavaScript --> 
+	<script src="scripts1/jquery-1.11.2.min.js"></script> 
+	<script src="scripts1/bootstrap.min.js"></script> 
+	<script src="scripts1/jquery.validate.min.js"></script>
+	<script src="scripts1/smoothscroll.js"></script> 
+	<script src="scripts1/jquery.smooth-scroll.min.js"></script> 
+	<script src="scripts1/placeholders.jquery.min.js"></script> 
+	<script src="scripts1/jquery.magnific-popup.min.js"></script>
+	<script src="scripts1/jquery.counterup.min.js"></script>
+	<script src="scripts1/waypoints.min.js"></script>
+	<script src="scripts1/video.js"></script>
+	<script src="scripts1/bigvideo.js"></script>
+    <script src="scripts1/animations/wow.min.js"></script>
+    <script src="scripts1/jquery.jCounter-0.1.4.js"></script>
+    <script src="scripts1/bootstrap-datepicker.min.js"></script>
+	<script src="scripts1/custom.js"></script>
+
+	
+
+
+</body></html>
